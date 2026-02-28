@@ -7,11 +7,11 @@
    "module": "spec/web.spec.js",
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/dna-engine/load-web-page-jsdom-jasmine.git"
+      "url": "git+https://github.com/dna-dom/load-web-page-jsdom-jasmine.git"
    },
-   "homepage": "https://github.com/dna-engine/load-web-page-jsdom-jasmine",
-   "bugs": "https://github.com/dna-engine/load-web-page-jsdom-jasmine/issues",
-   "docs": "https://github.com/dna-engine/load-web-page-jsdom-jasmine#readme",
+   "homepage": "https://github.com/dna-dom/load-web-page-jsdom-jasmine",
+   "bugs": "https://github.com/dna-dom/load-web-page-jsdom-jasmine/issues",
+   "docs": "https://github.com/dna-dom/load-web-page-jsdom-jasmine#readme",
    "author": "Center Key (https://centerkey.com)",
    "keywords": [
       "jasmine",
